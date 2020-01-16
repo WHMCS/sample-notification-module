@@ -1,0 +1,24 @@
+{
+  "name": "whmcs/sample-notification-module",
+  "description": "Sample Notification Module for the WHMCS Billing Automation Platform",
+  "keywords": [
+    "whmcs",
+    "web host automation platform",
+    "notification module"
+  ],
+  "homepage": "https://www.whmcs.com/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "WHMCS Development Team",
+      "email": "development@whmcs.com",
+      "homepage": "https://www.whmcs.com/",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "email": "support@whmcs.com",
+    "forum": "https://whmcs.community/",
+    "wiki": "https://docs.whmcs.com/"
+  }
+}

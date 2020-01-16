@@ -1,0 +1,28 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-notifications",
+  "name": "Sample Notification Module",
+  "license": "proprietary",
+  "category": "notifications",
+  "description": {
+    "name": "Sample Notification Module",
+    "tagline": "A sample module to send notifications to a chosen provider.",
+    "long": "Setup advanced rule based notifications for events and triggers that matter to you and receive those notifications to a chosen notification provider.",
+    "features": [
+      "Setup rule based events and triggers",
+      "Receive notifications to an external provider"
+    ]
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "support": {
+    "docs_url": "https:\/\/docs.whmcs.com\/Notifications"
+  },
+  "authors": [
+    {
+      "name": "WHMCS",
+      "homepage": "https:\/\/www.whmcs.com\/"
+    }
+  ]
+}
